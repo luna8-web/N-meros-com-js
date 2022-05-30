@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: 	#363636;
+    
+}
+
+button{
+    font-size: 12; padding: 30px;
+    background-color:Tomato;
+    color: rgb(243, 231, 231);
+    font: 2em Courier ;
+
+}
+
+h1{
+    font-style: oblique;
+    text-decoration: dotted;
+    color: rgb(235, 223, 223);
+    font: 3em Courier ;
+}
+
+p{
+    color: #e2d23d;
+    font: 1em Courier ;
+}
